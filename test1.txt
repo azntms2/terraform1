@@ -1,2 +1,2 @@
 Create RG
-Create vnet
+Create vnet and add subnets
